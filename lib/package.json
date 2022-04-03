@@ -1,0 +1,11 @@
+{
+  "name": "yre-core",
+  "version": "0.0.1",
+  "description": "yre core",
+  "main": "./dist/core/index.js",
+  "scripts": {
+    "build": "rm -rf ./dist/core/index.js"
+  },
+  "author": "yreil",
+  "license": "ISC"
+}
