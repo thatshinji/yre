@@ -1,3 +1,2 @@
-export default async function yre() {
-  console.log('it\'s yre')
-}
+import Koa from 'koa'
+import path from 'path'
